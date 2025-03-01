@@ -1,5 +1,4 @@
 # Devops-CI-CD-pipeline
-# DevOps Pipeline Project
 
 
 ![DevOps Architecture](https://github.com/goldentrader/Devops-CI-CD-pipeline/blob/main/architecture.jpg?raw=true)
