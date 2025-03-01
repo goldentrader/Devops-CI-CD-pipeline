@@ -1,6 +1,9 @@
 # Devops-CI-CD-pipeline
 # DevOps Pipeline Project
 
+
+![DevOps Architecture](https://github.com/goldentrader/Devops-CI-CD-pipeline/blob/main/architecture.jpg?raw=true)
+
 This repository contains the configuration and automation scripts for a CI/CD pipeline that integrates multiple DevOps tools. The pipeline leverages Ansible, Terraform, GitHub webhooks, Jenkins, Docker, and Kubernetes to provision infrastructure, build and push container images, and deploy applications seamlessly.
 
 ---
